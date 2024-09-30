@@ -1,4 +1,4 @@
-# The MayaTel Labs Software License 1.1
+# The MayaTel Labs Software License 1.2
 ### *This license is a modified version of the MIT license, allowing for free usage, modification, and distribution of code, while also invoking several additional exceptions.*
 
 Copyright (c) *[year]* Maya Ventura/MayaTel Labs. https://www.github.com/MayaTelLabs
@@ -7,7 +7,9 @@ Permission is hereby granted, free of charge, to any persons obtaining a copy of
 
 **COPYRIGHT**: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-**CORPORATIONS**: Any legally incorporated organization, as defined by the definitions of the home locality of the corporation in question, is exempt from this license, and is forbidden from freely using, copying, modifying, merging, publishing, and distributing this software this software without prior permission from the original author, which can be obtained from the original author.
+**CORPORATIONS**: Any legally incorporated organization, as defined by the definitions of the home locality of the corporation in question, is exempt from this license, and is forbidden from freely using, copying, modifying, merging, publishing, and distributing this software this software without prior permission from the original author.
+
+**INCOME**: Any individual person generating more than $100,000/year (or local equivalent, based on exchange rates at the time of inquiry) is exempt from this license, and is forbidden from freely using, copying, modifying, merging, publishing, and distributing this software this software without prior permission from the original author.
 
 **IDEOLOGY**: Any persons who espouse any views considered to be anti-queer, or bigoted against any a widely-recognized minority group, is exempt from this license, and is forbidden from using, copying, modifying, merging, publishing, and distributing this software. If there is any question as to your personal ideology, prior permission can be obtained from the original author. 
 
