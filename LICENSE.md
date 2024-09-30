@@ -1,4 +1,4 @@
-# The MayaTel Labs Software License 1.1
+# The MayaTel Labs Software License 1.2
 ### *This license is a modified version of the MIT license, allowing for free usage, modification, and distribution of code, while also invoking several additional exceptions.*
 
 Copyright (c) *[year]* Maya Ventura/MayaTel Labs. https://www.github.com/MayaTelLabs
